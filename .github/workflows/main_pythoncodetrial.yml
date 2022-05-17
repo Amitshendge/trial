@@ -65,6 +65,6 @@ jobs:
           app-name: 'PythonCodeTrial'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B36E877A871348FFBD18770445F19607 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FF415D26372940DFA02BCB9A642FE6FA }}
           scm-do-build-during-deployment: true
           enable-oryx-build: true
