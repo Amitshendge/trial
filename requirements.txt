@@ -1,5 +1,0 @@
-azure-eventhub==5.9.0
-pandas==1.4.2
-asyncio==3.4.3
-pytz==2022.1
-azure-storage-queue==12.3.0
